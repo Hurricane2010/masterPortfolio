@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/masterPortfolio/static/css/main.bb0cc6b1.chunk.css",
-    "main.js": "/masterPortfolio/static/js/main.3329b3b0.chunk.js",
-    "main.js.map": "/masterPortfolio/static/js/main.3329b3b0.chunk.js.map",
+    "main.js": "/masterPortfolio/static/js/main.a026b9f9.chunk.js",
+    "main.js.map": "/masterPortfolio/static/js/main.a026b9f9.chunk.js.map",
     "runtime-main.js": "/masterPortfolio/static/js/runtime-main.de926290.js",
     "runtime-main.js.map": "/masterPortfolio/static/js/runtime-main.de926290.js.map",
-    "static/js/2.4e40e992.chunk.js": "/masterPortfolio/static/js/2.4e40e992.chunk.js",
-    "static/js/2.4e40e992.chunk.js.map": "/masterPortfolio/static/js/2.4e40e992.chunk.js.map",
+    "static/js/2.a71148e6.chunk.js": "/masterPortfolio/static/js/2.a71148e6.chunk.js",
+    "static/js/2.a71148e6.chunk.js.map": "/masterPortfolio/static/js/2.a71148e6.chunk.js.map",
     "index.html": "/masterPortfolio/index.html",
-    "precache-manifest.83cbd0c182da7e34cab4c258f2ebf632.js": "/masterPortfolio/precache-manifest.83cbd0c182da7e34cab4c258f2ebf632.js",
+    "precache-manifest.719b50ea5f906af94a3ee3e7cbc26830.js": "/masterPortfolio/precache-manifest.719b50ea5f906af94a3ee3e7cbc26830.js",
     "service-worker.js": "/masterPortfolio/service-worker.js",
     "static/css/main.bb0cc6b1.chunk.css.map": "/masterPortfolio/static/css/main.bb0cc6b1.chunk.css.map",
     "static/media/2.svg": "/masterPortfolio/static/media/2.308851a2.svg",
     "static/media/index.css": "/masterPortfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/ProfilePic.jpg": "/masterPortfolio/static/media/ProfilePic.bc2a188e.jpg",
     "static/media/address_image.svg": "/masterPortfolio/static/media/address_image.16559172.svg",
-    "static/media/animated_ashutosh.png": "/masterPortfolio/static/media/animated_ashutosh.bc2a188e.png",
+    "static/media/animated_ashutosh.png": "/masterPortfolio/static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "/masterPortfolio/static/media/animated_logo.56aa8576.svg",
     "static/media/blogs_image.svg": "/masterPortfolio/static/media/blogs_image.058eca4c.svg",
     "static/media/cloud_infrastructure.svg": "/masterPortfolio/static/media/cloud_infrastructure.cacbc42b.svg",
@@ -54,8 +55,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.de926290.js",
-    "static/js/2.4e40e992.chunk.js",
+    "static/js/2.a71148e6.chunk.js",
     "static/css/main.bb0cc6b1.chunk.css",
-    "static/js/main.3329b3b0.chunk.js"
+    "static/js/main.a026b9f9.chunk.js"
   ]
 }
